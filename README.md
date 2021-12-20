@@ -37,7 +37,7 @@ Before you get started, follow these requirements
 - Firebase project
 - Google maps API
 - Dart SDK >=2.14.0 <3.0.0
-- Flutter SDK >=1.17.0
+- Flutter SDK >=2.0.0
 
 ## 🍃 How to Setup
 
